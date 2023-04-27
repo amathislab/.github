@@ -2,7 +2,7 @@
 
 Broadly speaking, we work at the intersection of computational neuroscience and machine learning. Ultimately, we are interested in reverse engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems.  
 
-Check out our [website for more information](http://www.mathisgroup.org), and see our open source code below!
+Check out [group's website for more information](http://www.mathisgroup.org), and see our open source code below!
 
 Of particular interest:
 
