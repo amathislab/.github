@@ -1,19 +1,19 @@
 ## Welcome to the A. Mathis Group at EPFL! 
 
-Broadly speaking, we work at the intersection of computational neuroscience and machine learning. Ultimately, we are interested in reverse engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems.  
+Broadly speaking, we work at the intersection of computational neuroscience and machine learning (NeuroAI). Ultimately, we are interested in reverse engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems.  
 
 Check out [group's website for more information](http://www.mathisgroup.org), and see our open source code below!
 
-Of particular interest:
+Code for behavioral analysis:
 
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut): for animal pose estimation
+- [DLC2action](https://github.com/AlexEMG/DLC2action): for action segmentation 
 
-Code for research papers 👩‍💻:
-
+Selected Code from research papers 👩‍💻:
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa et al. NeurIPS 2022
-- [DeepDraw](https://github.com/amathislab/DeepDraw): for modeling proprioception
-
-
+- [DeepDraw](https://github.com/amathislab/DeepDraw): for modeling proprioception with task-driven modeling, TBD 2023
+- [AcinoSet: A 3D Pose Estimation Dataset and Baseline Models for Cheetahs in the Wild](https://github.com/amathislab/AcinoSet), ICRA 2021
+- [Primer on Motion Capture](https://github.com/amathislab/Primer-MotionCapture), Neuron 2020
 <!--
 
 **Here are some ideas to get you started:**
