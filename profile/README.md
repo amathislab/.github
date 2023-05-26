@@ -12,6 +12,7 @@ Code for behavioral analysis:
 Selected Code from research projects 👩‍💻:
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa et al. NeurIPS 2022
 - [DeepDraw](https://github.com/amathislab/DeepDraw): for modeling proprioception with task-driven modeling, TBD 2023
+- [End-to-end trainable multi-instance pose estimation with transformers](https://github.com/amathislab/poet): code for POET model, arxiv 2021
 - [AcinoSet: A 3D Pose Estimation Dataset and Baseline Models for Cheetahs in the Wild](https://github.com/amathislab/AcinoSet), ICRA 2021
 - [Primer on Motion Capture](https://github.com/amathislab/Primer-MotionCapture), Neuron 2020
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab --> paper forthcoming.
