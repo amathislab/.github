@@ -1,6 +1,6 @@
 ## Welcome to the A. Mathis Group at EPFL! 
 
-Broadly speaking, we work at the intersection of computational neuroscience and machine learning (NeuroAI). Ultimately, we are interested in reverse engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems.  
+Broadly speaking, we work at the intersection of computational neuroscience and machine learnine, aka AI4(Neuro)Science. Ultimately, we are interested in reverse engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems.  
 
 Check out [group's website for more information](http://www.mathisgroup.org), and see our open source code below!
 
