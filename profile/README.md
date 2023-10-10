@@ -9,6 +9,7 @@ Code for behavioral analysis:
 - [DLC2action](https://github.com/AlexEMG/DLC2action): for action segmentation 
 
 Selected Code from published research projects 👩‍💻:
+- [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus (under review). Cool code to infer symbolic formulas from data
 - [Bottom-up conditioned top-down pose estimation (BUCTD)](https://github.com/amathislab/BUCTD): Code for Zhou*, Stoffl*, Mathis and Mathis ICCV, 2023. State of the art code for performing 2D pose estimation in crowded scenes. 
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab --> paper forthcoming.
