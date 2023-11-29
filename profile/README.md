@@ -28,7 +28,7 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 - [DeepDraw](https://github.com/amathislab/DeepDraw): code for modeling proprioception with task-driven modeling, Sanbrink*, Mamidanna* et al. eLife 2023
 
 
-🌈 Please reach out, if you want to work with us! We love open-source science.
+🌈 Please reach out, if you want to work with us! We love collaborative, open-source science.
 
 <!--
 
