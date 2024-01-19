@@ -24,7 +24,7 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab --> paper forthcoming.
 
 **AI4Science and modeling sensorimotor control:**
-- [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus (under review). Cool code to infer symbolic formulas from data
+- [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Schwaller, Mathis & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
 - [DeepDraw](https://github.com/amathislab/DeepDraw): code for modeling proprioception with task-driven modeling, Sanbrink*, Mamidanna* et al. eLife 2023
 - [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. BioRxiv 2023
 
