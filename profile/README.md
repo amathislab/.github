@@ -26,7 +26,7 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 **AI4Science and modeling sensorimotor control:**
 - [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus (under review). Cool code to infer symbolic formulas from data
 - [DeepDraw](https://github.com/amathislab/DeepDraw): code for modeling proprioception with task-driven modeling, Sanbrink*, Mamidanna* et al. eLife 2023
-
+- [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. BioRxiv 2023
 
 🌈 Please reach out, if you want to work with us! We love collaborative, open-source science.
 
