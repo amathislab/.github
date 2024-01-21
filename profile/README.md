@@ -12,21 +12,21 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 ## Selected Code from published research projects 👩‍💻:
 
 **Computer Vision and Behavioral Analysis:**
-- [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis. 
-- [Bottom-up conditioned top-down pose estimation (BUCTD)](https://github.com/amathislab/BUCTD): Code for Zhou*, Stoffl*, Mathis and Mathis ICCV, 2023. State of the art code for performing 2D pose estimation in crowded scenes. 
-- [End-to-end trainable multi-instance pose estimation with transformers](https://github.com/amathislab/poet): code for POET model, Stoffl, Vidal & Mathis arxiv 2021
-- [AcinoSet: A 3D Pose Estimation Dataset and Baseline Models for Cheetahs in the Wild](https://github.com/amathislab/AcinoSet), ICRA 2021
-- [Primer on Motion Capture](https://github.com/amathislab/Primer-MotionCapture), Neuron 2020
+- [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis BioRxiv 2023
+- [Bottom-up conditioned top-down pose estimation (BUCTD)](https://github.com/amathislab/BUCTD): Code for Zhou*, Stoffl*, Mathis and Mathis ICCV 2023. State of the art code for performing 2D pose estimation in crowded scenes. 
+- [End-to-end trainable multi-instance pose estimation with transformers](https://github.com/amathislab/poet): Code for POET model, Stoffl, Vidal & Mathis arxiv 2021
+- [AcinoSet: A 3D Pose Estimation Dataset and Baseline Models for Cheetahs in the Wild](https://github.com/amathislab/AcinoSet), Joska et al. ICRA 2021
+- [Primer on Motion Capture](https://github.com/amathislab/Primer-MotionCapture), Mathis et al. Neuron 2020
 
 **Reinforcement learning:**
 - [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa, et al. NeurIPS 2023 
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
-- [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab --> paper forthcoming.
+- [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab. Caggiano et al. PMLR 2022
 
 **AI4Science and modeling sensorimotor control:**
 - [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Schwaller, Mathis & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
-- [DeepDraw](https://github.com/amathislab/DeepDraw): code for modeling proprioception with task-driven modeling, Sanbrink*, Mamidanna* et al. eLife 2023
-- [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. BioRxiv 2023
+- [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sanbrink*, Mamidanna* et al. eLife 2023
+- [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): Code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. BioRxiv 2023
 
 🌈 Please reach out, if you want to work with us! We love collaborative, open-source science.
 
