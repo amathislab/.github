@@ -19,6 +19,8 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 - [Primer on Motion Capture](https://github.com/amathislab/Primer-MotionCapture), Mathis et al. Neuron 2020
 
 **Reinforcement learning:**
+
+- [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023]([https://github.com/amathislab/myochallenge](https://github.com/amathislab/myochallenge-lattice), article forthcoming
 - [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa, et al. NeurIPS 2023 
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab. Caggiano et al. PMLR 2022
