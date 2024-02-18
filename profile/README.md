@@ -1,6 +1,6 @@
 # Welcome to the A. Mathis Group at EPFL! 
 
-Broadly speaking, we work at the intersection of computational neuroscience and machine learning, aka AI4(Neuro)Science. Ultimately, we are interested in reverse engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems.  
+Broadly speaking, we work at the intersection of computational neuroscience and machine learning, aka *AI4(Neuro)Science*. Ultimately, we are interested in reverse engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems.  
 
 Check out [group's website for more information](http://www.mathisgroup.org), and see our open source code below!
 
@@ -12,6 +12,7 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 ## Selected Code from published research projects 👩‍💻:
 
 **Computer Vision and Behavioral Analysis:**
+
 - [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis BioRxiv 2023
 - [Bottom-up conditioned top-down pose estimation (BUCTD)](https://github.com/amathislab/BUCTD): Code for Zhou*, Stoffl*, Mathis and Mathis ICCV 2023. State of the art code for performing 2D pose estimation in crowded scenes. 
 - [End-to-end trainable multi-instance pose estimation with transformers](https://github.com/amathislab/poet): Code for POET model, Stoffl, Vidal & Mathis arxiv 2021
@@ -25,13 +26,15 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab. Caggiano et al. PMLR 2022
 
-**AI4Science and modeling sensorimotor control:**
+**AI4Science including modeling sensorimotor control:**
+
 - [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Schwaller, Mathis & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
 - [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sanbrink*, Mamidanna* et al. eLife 2023
 - [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): Code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. BioRxiv 2023
 
 🌈 Please reach out, if you want to work with us! We love collaborative, open-source science.
 
+We often collaborate with the group of Mackenzie Mathis, and also [recommend checking out their GitHub repository!](https://github.com/AdaptiveMotorControlLab)
 <!--
 
 **Here are some ideas to get you started:**
