@@ -14,7 +14,7 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 **Computer Vision and Behavioral Analysis:**
 
 - [HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields](https://amathislab.github.io/HOISDF/): Code for Haozhe Qi, Chen Zhao, Mathieu Salzmann, & Alexander Mathis. CVPR (in press) 2024
-- [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis BioRxiv 2023. International Journal of Computer Vision (in press)
+- [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis BioRxiv 2023. International Journal of Computer Vision 2024
 - [Bottom-up conditioned top-down pose estimation (BUCTD)](https://github.com/amathislab/BUCTD): Code for Zhou*, Stoffl*, Mathis and Mathis ICCV 2023. State of the art code for performing 2D pose estimation in crowded scenes. 
 - [End-to-end trainable multi-instance pose estimation with transformers](https://github.com/amathislab/poet): Code for POET model, Stoffl, Vidal & Mathis arxiv 2021
 - [AcinoSet: A 3D Pose Estimation Dataset and Baseline Models for Cheetahs in the Wild](https://github.com/amathislab/AcinoSet), Joska et al. ICRA 2021
