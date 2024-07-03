@@ -24,14 +24,14 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 
 - [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa, et al. BioRxiv 2024
 - [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), submitted
-- [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa, et al. NeurIPS 2023 
+- [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa et al. NeurIPS 2023 
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022
 
 **AI4Science including modeling sensorimotor control:**
 
 - [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): Code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. Cell 2024
-- [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Schwaller, Mathis & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
+- [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
 - [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sanbrink*, Mamidanna* et al. eLife 2023
 
 
