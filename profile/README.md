@@ -15,7 +15,7 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 
 - [Elucidating the Hierarchical Nature of Behavior with Masked Autoencoders](https://github.com/amathislab/BehaveMAE): Stoffl, Bonnetto, d'Ascoli & Mathis  ECCV 2024
 - [HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields](https://amathislab.github.io/HOISDF/): Code for Haozhe Qi, Chen Zhao, Mathieu Salzmann, & Alexander Mathis. CVPR 2024
-- [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis BioRxiv 2023. International Journal of Computer Vision 2024
+- [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis International Journal of Computer Vision 2024 (also oral at CVPR CV4animals 2023)
 - [Bottom-up conditioned top-down pose estimation (BUCTD)](https://github.com/amathislab/BUCTD): Code for Zhou*, Stoffl*, Mathis and Mathis ICCV 2023. State of the art code for performing 2D pose estimation in crowded scenes. 
 - [End-to-end trainable multi-instance pose estimation with transformers](https://github.com/amathislab/poet): Code for POET model, Stoffl, Vidal & Mathis arxiv 2021
 - [AcinoSet: A 3D Pose Estimation Dataset and Baseline Models for Cheetahs in the Wild](https://github.com/amathislab/AcinoSet), Joska et al. ICRA 2021
@@ -23,7 +23,7 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 
 **Reinforcement learning (mostly for motor skills):**
 
-- [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa, et al. BioRxiv 2024
+- [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa*, Tano*, Patel* et al. Neuron 2024
 - [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), submitted
 - [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa et al. NeurIPS 2023 
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
