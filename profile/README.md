@@ -7,7 +7,8 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 ## Packages for behavioral analysis:
 
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut): for animal pose estimation
-- [DLC2action](https://github.com/AlexEMG/DLC2action): for action segmentation 
+- [DLC2action](https://github.com/AlexEMG/DLC2action): for action segmentation
+- [hBehaveMAE](https://github.com/amathislab/BehaveMAE): unsupervised action decomposition for hierarchical behavior
 
 ## Selected Code from published research projects 👩‍💻:
 
