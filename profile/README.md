@@ -24,14 +24,16 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 
 **Reinforcement learning (mostly for motor skills):**
 
+- [Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, arxiv 2025
 - [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa*, Tano*, Patel* et al. Neuron 2024
-- [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), submitted
+- [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), Code by Marin Vargas & Chiappa.
 - [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa et al. NeurIPS 2023 
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022
 
 **AI4Science including modeling sensorimotor control:**
 
+- [Deep-learning models of the ascending proprioceptive pathway are subject to illusions](https://github.com/amathislab/ProprioceptiveIllusions): Code for modeling proprioceptive illusions. Adriana Perez Rotondo, Merkourios Simos, Florian David, Sebastian Pigeon, Olaf Blanke, & Alexander Mathis. [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.15.643457v1), in press at Experimental Physiology
 - [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): Code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. Cell 2024
 - [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
 - [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sandbrink*, Mamidanna* et al. eLife 2023
