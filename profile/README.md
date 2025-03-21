@@ -38,6 +38,12 @@ Check out [group's website for more information](http://www.mathisgroup.org), an
 - [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
 - [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sandbrink*, Mamidanna* et al. eLife 2023
 
+**Datasets:**
+
+- [Behavior understanding in ecology benchmark](https://github.com/amathislab/MammAlps): Code for MammAlps. CVPR 2025
+
+
+
 
 🌈 Please reach out, if you want to work with us! We love collaborative, open-source science.
 
