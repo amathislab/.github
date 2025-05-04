@@ -4,6 +4,8 @@ Broadly speaking, we work at the intersection of computational neuroscience and 
 
 Check out [group's website for more information](http://www.mathislab.org), and see our open source code below!
 
+We also share open data/model weights on [Zenodo](https://zenodo.org/communities/amg/records?q=&l=list&p=1&s=10&sort=newest) and [Huggingface](https://huggingface.co/amathislab)! 
+
 ## Packages for behavioral analysis:
 
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut): for animal pose estimation
