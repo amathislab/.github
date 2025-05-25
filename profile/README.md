@@ -25,7 +25,15 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 - [AcinoSet: A 3D Pose Estimation Dataset and Baseline Models for Cheetahs in the Wild](https://github.com/amathislab/AcinoSet), Joska et al. ICRA 2021
 - [Primer on Motion Capture](https://github.com/amathislab/Primer-MotionCapture), Mathis et al. Neuron 2020
 
-**Reinforcement learning (mostly for motor skills):**
+**AI4Science including modeling proprioception and sensorimotor control:**
+
+- [Deep-learning models of the ascending proprioceptive pathway are subject to illusions](https://github.com/amathislab/ProprioceptiveIllusions): Code for modeling proprioceptive illusions. Adriana Perez Rotondo, Merkourios Simos, Florian David, Sebastian Pigeon, Olaf Blanke, & Alexander Mathis. [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.15.643457v1), in press at Experimental Physiology
+- [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): Code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. Cell 2024
+- [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
+- [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sandbrink*, Mamidanna* et al. eLife 2023
+
+
+**Reinforcement learning (mostly for motor skills also relevant for modeling sensorimotor control):**
 
 - [Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, arxiv 2025
 - [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa*, Tano*, Patel* et al. Neuron 2024
@@ -34,17 +42,9 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022
 
-**AI4Science including modeling sensorimotor control:**
-
-- [Deep-learning models of the ascending proprioceptive pathway are subject to illusions](https://github.com/amathislab/ProprioceptiveIllusions): Code for modeling proprioceptive illusions. Adriana Perez Rotondo, Merkourios Simos, Florian David, Sebastian Pigeon, Olaf Blanke, & Alexander Mathis. [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.15.643457v1), in press at Experimental Physiology
-- [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): Code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. Cell 2024
-- [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
-- [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sandbrink*, Mamidanna* et al. eLife 2023
-
 **Datasets:**
 
-- [Behavior understanding in ecology benchmark](https://github.com/amathislab/MammAlps): Code for MammAlps. CVPR 2025
-
+- [Behavior understanding in ecology benchmark](https://github.com/amathislab/MammAlps): Code for MammAlps. Gabeff et al. CVPR spotlight 2025
 
 
 
