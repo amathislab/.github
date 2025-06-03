@@ -42,8 +42,9 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022
 
-**Datasets:**
+**Datasets and benchmarks:**
 
+- [EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models](https://github.com/amathislab/EPFL-Smart-Kitchen): Code and data for Bonnetto*, Qi* et al. arxiv 2025
 - [Behavior understanding in ecology benchmark](https://github.com/amathislab/MammAlps): Code for MammAlps. Gabeff et al. CVPR spotlight 2025
 
 
