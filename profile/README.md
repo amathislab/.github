@@ -35,6 +35,7 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 
 **Reinforcement learning (mostly for motor skills also relevant for modeling sensorimotor control):**
 
+- [Arnold: a generalist muscle transformer policy](https://github.com/amathislab/arnold-the-generalist): Code for Chiappa & An et al., arxiv 2025
 - [Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, arxiv 2025
 - [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa*, Tano*, Patel* et al. Neuron 2024
 - [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), Code by Marin Vargas & Chiappa.
