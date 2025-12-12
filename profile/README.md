@@ -17,6 +17,7 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 
 **Computer Vision and Behavioral Analysis:**
 
+- [LLaVAction: evaluating and training multi-modal large language models for action recognition](https://llavaction.epfl.ch): Qi*, Ye*, Mathis**, Mathis**, arxiv 2025
 - [Elucidating the Hierarchical Nature of Behavior with Masked Autoencoders](https://github.com/amathislab/BehaveMAE): Stoffl, Bonnetto, d'Ascoli & Mathis  ECCV 2024
 - [HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields](https://amathislab.github.io/HOISDF/): Code for Haozhe Qi, Chen Zhao, Mathieu Salzmann, & Alexander Mathis. CVPR 2024
 - [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis International Journal of Computer Vision 2024 (also oral at CVPR CV4animals 2023)
@@ -27,7 +28,7 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 
 **AI4Science including modeling proprioception and sensorimotor control:**
 
-- [Deep-learning models of the ascending proprioceptive pathway are subject to illusions](https://github.com/amathislab/ProprioceptiveIllusions): Code for modeling proprioceptive illusions. Adriana Perez Rotondo, Merkourios Simos, Florian David, Sebastian Pigeon, Olaf Blanke, & Alexander Mathis. [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.15.643457v1), in press at Experimental Physiology
+- [Deep-learning models of the ascending proprioceptive pathway are subject to illusions](https://github.com/amathislab/ProprioceptiveIllusions): Code for modeling proprioceptive illusions. Adriana Perez Rotondo, Merkourios Simos, Florian David, Sebastian Pigeon, Olaf Blanke, & Alexander Mathis. Experimental Physiology 2025
 - [Task-driven-proprioception](https://github.com/amathislab/Task-driven-Proprioception): Code for modeling the proprioceptive system of primates. Marin Vargas* & Bisi* et al. Cell 2024
 - [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
 - [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sandbrink*, Mamidanna* et al. eLife 2023
@@ -45,7 +46,7 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 
 **Datasets and benchmarks:**
 
-- [EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models](https://github.com/amathislab/EPFL-Smart-Kitchen): Code and data for Bonnetto*, Qi* et al. arxiv 2025
+- [EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models](https://github.com/amathislab/EPFL-Smart-Kitchen): Code and data for Bonnetto*, Qi* et al. NeurIPS 2025
 - [Behavior understanding in ecology benchmark](https://github.com/amathislab/MammAlps): Code for MammAlps. Gabeff et al. CVPR spotlight 2025
 
 
