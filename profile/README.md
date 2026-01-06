@@ -6,12 +6,20 @@ Check out [group's website for more information](http://www.mathislab.org), and 
 
 We also share open data/model weights on [Zenodo](https://zenodo.org/communities/amg/records?q=&l=list&p=1&s=10&sort=newest) and [Huggingface](https://huggingface.co/amathislab)! 
 
-## Packages for behavioral analysis:
+## Software packages for behavioral analysis:
 
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut): for animal pose estimation
 - [DLC2action](https://github.com/amathislab/DLC2action): for action segmentation
 - [hBehaveMAE](https://github.com/amathislab/BehaveMAE): unsupervised action decomposition for hierarchical behavior
 - [LLaVAction](https://github.com/AdaptiveMotorControlLab/LLaVAction): multimodal language model for action recognition
+
+## Code from winning ML competitions:
+
+Skill learning (MyoChallenges @NeurIPS):
+
+- [Winning code for the penalty kick track of the MyoChallenge at NeurIPS 2025](https://github.com/amathislab/tbd), Code by Simos, Li & Ziliotto. 
+- [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), Code by Marin Vargas & Chiappa.
+- [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022
 
 ## Selected Code from published research projects 👩‍💻:
 
@@ -39,10 +47,10 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 - [Arnold: a generalist muscle transformer policy](https://github.com/amathislab/arnold-the-generalist): Code for Chiappa & An et al., arxiv 2025
 - [Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, arxiv 2025
 - [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa*, Tano*, Patel* et al. Neuron 2024
-- [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), Code by Marin Vargas & Chiappa.
 - [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa et al. NeurIPS 2023 
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
-- [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022
+
+Also check out the section on winning MyoChallenges at NeurIPS (in 2022, 2023 and 2025)!
 
 **Datasets and benchmarks:**
 
