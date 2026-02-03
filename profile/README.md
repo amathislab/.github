@@ -25,7 +25,7 @@ Skill learning (MyoChallenges @NeurIPS):
 
 **Computer Vision and Behavioral Analysis:**
 
-- [LLaVAction: evaluating and training multi-modal large language models for action recognition](https://llavaction.epfl.ch): Qi*, Ye*, Mathis**, Mathis**, arxiv 2025
+- [LLaVAction: evaluating and training multi-modal large language models for action recognition](https://llavaction.epfl.ch): Qi*, Ye*, Mathis**, Mathis**, ICLR 2026 (accepted)
 - [Elucidating the Hierarchical Nature of Behavior with Masked Autoencoders](https://github.com/amathislab/BehaveMAE): Stoffl, Bonnetto, d'Ascoli & Mathis  ECCV 2024
 - [HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields](https://amathislab.github.io/HOISDF/): Code for Haozhe Qi, Chen Zhao, Mathieu Salzmann, & Alexander Mathis. CVPR 2024
 - [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis International Journal of Computer Vision 2024 (also oral at CVPR CV4animals 2023)
@@ -45,7 +45,7 @@ Skill learning (MyoChallenges @NeurIPS):
 **Reinforcement learning (mostly for motor skills also relevant for modeling sensorimotor control):**
 
 - [Arnold: a generalist muscle transformer policy](https://github.com/amathislab/arnold-the-generalist): Code for Chiappa & An et al., arxiv 2025
-- [Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, arxiv 2025
+- [Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, ICRA 2026 (accepted)
 - [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa*, Tano*, Patel* et al. Neuron 2024
 - [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa et al. NeurIPS 2023 
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
