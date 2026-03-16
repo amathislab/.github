@@ -44,6 +44,7 @@ Skill learning (MyoChallenges @NeurIPS):
 
 **Reinforcement learning (mostly for motor skills also relevant for modeling sensorimotor control):**
 
+- [Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale](https://github.com/amathislab/musclemimic): Code for Li*, Wang* et al. 
 - [Arnold: a generalist muscle transformer policy](https://github.com/amathislab/arnold-the-generalist): Code for Chiappa & An et al., arxiv 2025
 - [Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, ICRA 2026 (accepted)
 - [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa*, Tano*, Patel* et al. Neuron 2024
