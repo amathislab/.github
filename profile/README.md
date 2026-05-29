@@ -1,8 +1,8 @@
 # Welcome to the A. Mathis Group at EPFL! 
 
-Broadly speaking, we work at the intersection of computational neuroscience and machine learning, aka *AI4(Neuro)Science*. Ultimately, we are interested in reverse engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems.  
+Broadly speaking, we work at the intersection of computational neuroscience and machine learning, aka *AI4(Neuro)Science*. Ultimately, we are interested in reverse-engineering the algorithms of the brain, in order to figure out how the brain works and to build better artificial intelligence systems. We are also interested in understanding the principles of behavior, and thus work actively on ways to measure it. 
 
-Check out [group's website for more information](http://www.mathislab.org), and see our open source code below!
+Check out [group's website for more information](https://cnai.epfl.ch), and see our open source code below!
 
 We also share open data/model weights on [Zenodo](https://zenodo.org/communities/amg/records?q=&l=list&p=1&s=10&sort=newest) and [Huggingface](https://huggingface.co/amathislab)! 
 
@@ -17,15 +17,15 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 
 Skill learning (MyoChallenges @NeurIPS):
 
-- [Winning code for the penalty kick track of the MyoChallenge at NeurIPS 2025](https://github.com/amathislab/tbd), Code by Simos, Li & Ziliotto. 
+- [Winning code for the penalty kick track of the MyoChallenge at NeurIPS 2025]([https://github.com/amathislab/tbd](https://github.com/amathislab/mc25-soccer-servette-myoclub)), Code by Simos, Li & Ziliotto. 
 - [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), Code by Marin Vargas & Chiappa.
-- [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022
+- [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), Code by Chiappa, Patel & Tano; joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022
 
 ## Selected Code from published research projects 👩‍💻:
 
 **Computer Vision and Behavioral Analysis:**
 
-- [LLaVAction: evaluating and training multi-modal large language models for action recognition](https://llavaction.epfl.ch): Qi*, Ye*, Mathis**, Mathis**, ICLR 2026 (accepted)
+- [LLaVAction: evaluating and training multi-modal large language models for action recognition](https://llavaction.epfl.ch): Qi*, Ye*, Mathis**, Mathis**, ICLR 2026
 - [Elucidating the Hierarchical Nature of Behavior with Masked Autoencoders](https://github.com/amathislab/BehaveMAE): Stoffl, Bonnetto, d'Ascoli & Mathis  ECCV 2024
 - [HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields](https://amathislab.github.io/HOISDF/): Code for Haozhe Qi, Chen Zhao, Mathieu Salzmann, & Alexander Mathis. CVPR 2024
 - [WildCLIP: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models](https://github.com/amathislab/wildclip): Code for Gabeff, Russwurm, Tuia & Mathis International Journal of Computer Vision 2024 (also oral at CVPR CV4animals 2023)
@@ -41,12 +41,11 @@ Skill learning (MyoChallenges @NeurIPS):
 - [ODEformer: symbolic regression of dynamical systems with transformers](https://github.com/sdascoli/odeformer): Code from d'Ascoli*, Becker*, Mathis, Schwaller & Kilbertus ICLR 2024 (spotlight). Cool code to infer symbolic formulas from data
 - [DeepDraw](https://github.com/amathislab/DeepDraw): Code for modeling proprioception with task-driven modeling, Sandbrink*, Mamidanna* et al. eLife 2023
 
-
 **Reinforcement learning (mostly for motor skills also relevant for modeling sensorimotor control):**
 
-- [Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale](https://github.com/amathislab/musclemimic): Code for Li*, Wang* et al. 
+- [Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale](https://github.com/amathislab/musclemimic): Code for Li*, Wang* et al. arxiv 2026
 - [Arnold: a generalist muscle transformer policy](https://github.com/amathislab/arnold-the-generalist): Code for Chiappa & An et al., arxiv 2025
-- [Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, ICRA 2026 (accepted)
+- [KINESIS: Motion Imitation for Human Musculoskeletal Locomotion](https://github.com/amathislab/Kinesis): Code for Simos, Chiappa & Mathis, ICRA 2026
 - [Acquiring musculoskeletal skills with curriculum-based reinforcement learning](https://github.com/amathislab/myochallenge): Code for Chiappa*, Tano*, Patel* et al. Neuron 2024
 - [Latent Exploration for Reinforcement Learning](https://github.com/amathislab/lattice): Code for Chiappa et al. NeurIPS 2023 
 - [DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body](https://github.com/amathislab/dmap): Code for Chiappa, Marin-Vargas & Mathis NeurIPS 2022
@@ -62,7 +61,6 @@ Also check out the section on winning MyoChallenges at NeurIPS (in 2022, 2023 an
 
 🌈 Please reach out, if you want to work with us! We love collaborative, open-source science.
 
-We often collaborate with the group of Mackenzie Mathis, and also [recommend checking out their GitHub repository!](https://github.com/AdaptiveMotorControlLab)
 <!--
 
 **Here are some ideas to get you started:**
