@@ -17,7 +17,7 @@ We also share open data/model weights on [Zenodo](https://zenodo.org/communities
 
 Skill learning (MyoChallenges @NeurIPS):
 
-- [Winning code for the penalty kick track of the MyoChallenge at NeurIPS 2025]([https://github.com/amathislab/tbd](https://github.com/amathislab/mc25-soccer-servette-myoclub)), Code by Simos, Li & Ziliotto. 
+- [Winning code for the penalty kick track of the MyoChallenge at NeurIPS 2025](https://github.com/amathislab/mc25-soccer-servette-myoclub), Code by Simos, Li & Ziliotto. Paper accepted to NeurIPS 2026 (Wang et al.)
 - [Winning code for the object manipulation track of the MyoChallenge at NeurIPS 2023](https://github.com/amathislab/myochallenge-lattice), Code by Marin Vargas & Chiappa.
 - [Winning code for the Baoding ball MyoChallenge at NeurIPS 2022](https://github.com/amathislab/myochallenge), Code by Chiappa, Patel & Tano; joint work with Pouget Lab (University of Geneva). Caggiano et al. Proceedings of Machine Learning Research 2022
 
@@ -55,8 +55,8 @@ Also check out the section on winning MyoChallenges at NeurIPS (in 2022, 2023 an
 **Datasets and benchmarks:**
 
 - [EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models](https://github.com/amathislab/EPFL-Smart-Kitchen): Code and data for Bonnetto*, Qi* et al. NeurIPS 2025
-- [Behavior understanding in ecology benchmark](https://github.com/amathislab/MammAlps): Code for MammAlps. Gabeff et al. CVPR spotlight 2025
-
+- [Behavior understanding in ecology benchmark](https://github.com/amathislab/MammAlps): Data and code for MammAlps. Gabeff et al. CVPR spotlight 2025
+- [Prompting MammAlps: Text-to-video retrieval on the MammAlps dataset](https://github.com/amathislab/prompting-mammalps): Data and code for MammAlps v2. Gabeff et al. ECCV 2026
 
 
 🌈 Please reach out, if you want to work with us! We love collaborative, open-source science.
